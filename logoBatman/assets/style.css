@@ -1,0 +1,23 @@
+body {
+    max-width: 80vw;
+    height: 50vh;
+}
+.night{fill:#16161b;}
+.moon{fill:#ececaf;}
+.star{fill:#ffffff;}
+.search-light{fill:#e6e6e1;}
+.bat-simbol{fill:#e6e6e1;stroke:#000000;stroke-width:5.2095;stroke-miterlimit:10;}
+
+#searchlight {
+  position: absolute;
+  opacity: 0.75;
+}
+
+polygon.star {
+  position: absolute;
+}
+
+#logo {
+  position: absolute;
+}
+
